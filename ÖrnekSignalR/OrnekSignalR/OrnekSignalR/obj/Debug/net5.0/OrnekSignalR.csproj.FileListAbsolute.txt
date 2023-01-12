@@ -1,0 +1,44 @@
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\appsettings.json
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.exe
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.deps.json
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.runtimeconfig.json
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.runtimeconfig.dev.json
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.dll
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.pdb
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.csproj.AssemblyReference.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.AssemblyInfoInputs.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.AssemblyInfo.cs
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.csproj.CoreCompileInputs.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\scopedcss\bundle\OrnekSignalR.styles.css
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\staticwebassets\OrnekSignalR.StaticWebAssets.Manifest.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.RazorTargetAssemblyInfo.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.dll
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\refint\OrnekSignalR.dll
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.pdb
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.genruntimeconfig.cache
+C:\Users\SKT\Desktop\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\ref\OrnekSignalR.dll
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\appsettings.json
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.exe
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.deps.json
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.runtimeconfig.json
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.runtimeconfig.dev.json
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.dll
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\bin\Debug\net5.0\OrnekSignalR.pdb
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.csproj.AssemblyReference.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.AssemblyInfoInputs.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.AssemblyInfo.cs
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.csproj.CoreCompileInputs.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\scopedcss\bundle\OrnekSignalR.styles.css
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\staticwebassets\OrnekSignalR.StaticWebAssets.Manifest.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.RazorTargetAssemblyInfo.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.dll
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\refint\OrnekSignalR.dll
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.pdb
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\OrnekSignalR.genruntimeconfig.cache
+C:\Users\90538\Downloads\Telegram Desktop\ÖrnekSignalR\ÖrnekSignalR\OrnekSignalR\OrnekSignalR\obj\Debug\net5.0\ref\OrnekSignalR.dll
